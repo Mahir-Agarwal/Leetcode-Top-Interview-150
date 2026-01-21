@@ -24,3 +24,6 @@ class Solution {
         return max;
     }
 }
+
+//T.C-> O(N)
+//S.C-> O(H) where H is the height of the tree
